@@ -19,6 +19,10 @@
         { 
             "name" : "Screaming Sheep",
             "file" : "assets/sheep.mp3"
+        },
+        { 
+            "name" : "SO fluffy",
+            "file" : "assets/fluffy.mp3"
         }
     ]
 }
