@@ -1,0 +1,24 @@
+{
+    "nipples" :  [
+        { 
+            "name" : "Gude Laune",
+            "file" : "assets/gutelaune-1.mp3"
+        },
+        { 
+            "name" : "Glaub ich nicht, Tim",
+            "file" : "assets/glaub_ich_nicht_tim.mp3"
+        },
+        { 
+            "name" : "GAAAAY",
+            "file" : "assets/gay.mp3"
+        },
+        { 
+            "name" : "Whaaaat?",
+            "file" : "assets/what.mp3"
+        },
+        { 
+            "name" : "Screaming Sheep",
+            "file" : "assets/sheep.mp3"
+        }
+    ]
+}
