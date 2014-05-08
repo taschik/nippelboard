@@ -27,6 +27,10 @@
         { 
             "name" : "Off and on again",
             "file" : "assets/off_and_on.mp3"
+        },
+        { 
+            "name" : "Laughter",
+            "file" : "assets/peoplelaugh.mp3"
         }
     ]
 }
