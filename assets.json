@@ -31,6 +31,10 @@
         { 
             "name" : "Sad trombone",
             "file" : "assets/sadtrombone.mp3"
+        },
+        {
+            "name" : "Laughter",
+            "file" : "assets/peoplelaugh.mp3"
         }
     ]
 }
