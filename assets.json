@@ -35,6 +35,10 @@
         {
             "name" : "Laughter",
             "file" : "assets/peoplelaugh.mp3"
+        },
+        {
+            "name" : "Des is mir Scheißegal",
+            "file" : "assets/scheißegal.mp3"
         }
     ]
 }
