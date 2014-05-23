@@ -39,6 +39,42 @@
         {
             "name" : "Des is mir Scheißegal",
             "file" : "assets/scheißegal.mp3"
+        },
+        {
+            "name" : "Ruhig bleiben!",
+            "file" : "assets/ruhig_bleiben.mp3"
+        },
+        {
+            "name" : "Baem ... und danach Vollgas!",
+            "file" : "assets/vollgas.mp3"
+        },
+        {
+            "name" : "Warn witz",
+            "file" : "assets/warnwitz.mp3"
+        },
+        {
+            "name" : "3 2 1 hübbi",
+            "file" : "assets/321huebbi.mp3"
+        },
+        {
+            "name" : "EierWirBrauchenEier",
+            "file" : "assets/eierwirbrauchen.mp3"
+        },
+        {
+            "name" : "JungeJungeJunge",
+            "file" : "assets/jungejungejunge.mp3"
+        },
+        {
+            "name" : "Orginale Nichtskönner",
+            "file" : "assets/orginalenichtskoenner.mp3"
+        },
+        {
+            "name" : "Nicht mal Bandmaß",
+            "file" : "assets/nichtmalbandmass.mp3"
+        },
+        {
+            "name" : "Sorry Sorry",
+            "file" : "assets/sorrysorry.mp3"
         }
     ]
 }

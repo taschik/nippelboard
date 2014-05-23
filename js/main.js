@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $.getJSON('../nippel/assets.json', function(data) {
+    $.getJSON('assets.json', function(data) {
         $.each(data.nipples, function(k, nipple) {
             var html = '<div class="nipple"><audio><source src="' + nipple.file + '" type="audio/mpeg"></audio><button class="btn btn-default">' + nipple.name + '</button></div>';
 
