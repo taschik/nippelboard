@@ -26,7 +26,7 @@
         },
         { 
             "name" : "Off and on again",
-            "file" : "assets/off_and_on.mp3"
+            "file" : "assets/offandon.mp3"
         },
         { 
             "name" : "Sad trombone",
@@ -75,6 +75,58 @@
         {
             "name" : "Sorry Sorry",
             "file" : "assets/sorrysorry.mp3"
-        }
+        },
+        {
+            "name" : "Großartig",
+            "file" : "assets/grossartig.mp3"
+        },
+        {
+            "name" : "Sehr sehr geil",
+            "file" : "assets/sehrsehrgeil.mp3"
+        },
+        {
+            "name" : "Sehr geiler Dorsch",
+            "file" : "assets/sehrgeilerdorsch.mp3"
+        },
+        {
+            "name" : "Was labersch du",
+            "file" : "assets/waslaberschdu.mp3"
+        },
+        {
+            "name" : "Leck mich doch am Zückerli",
+            "file" : "assets/leckmichdochamzueckerli.mp3"
+        },
+        {
+            "name" : "Weil ses wollen!",
+            "file" : "assets/ajagutaberweilseswollen.mp3"
+        },
+        {
+            "name" : "Ich reg mich grad net uff",
+            "file" : "assets/ichregmichgradnetuff.mp3"
+        },
+        {
+            "name" : "Seid mir net bös",
+            "file" : "assets/seidmirnetboes.mp3"
+        },
+        {
+            "name" : "Der Durchgepeitschte",
+            "file" : "assets/durchgepeitschte.mp3"
+        },
+        {
+            "name" : "Flexibel sei",
+            "file" : "assets/bissiflexibelsei.mp3"
+        },
+        {
+            "name" : "Der liebste und beste Mensch",
+            "file" : "assets/bestemensch.mp3"
+        },
+        {
+            "name" : "Piece out",
+            "file" : "assets/peaceoutichbindraussen.mp3"
+        },
+        {
+            "name" : "Besser isses",
+            "file" : "assets/besserisses.mp3"
+        }          
     ]
 }
